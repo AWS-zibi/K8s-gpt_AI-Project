@@ -57,4 +57,6 @@ Google Gemini AI
 Root Cause Analysis & Fix Suggestions
 
 
-<img width="1913" height="993" alt="Screenshot from 2025-12-23 14-39-38" src="https://github.com/user-attachments/assets/7525be7a-3146-425e-8095-c316fda66497" />
+<img width="346" height="259" alt="Screenshot from 2025-05-19 10-52-41" src="https://github.com/user-attachments/assets/29ac76e3-f8f7-4318-9250-0c2865090e8a" />
+<img width="1509" height="757" alt="Screenshot from 2025-12-23 14-32-33" src="https://github.com/user-attachments/assets/5a781d84-8e45-486d-a279-861cf00871a5" />
+
