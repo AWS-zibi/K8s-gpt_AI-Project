@@ -1,57 +1,33 @@
-###🧠 Kubernetes AI Debugging with k8sgpt (Minikube + Gemini)###
-#Project Overview#
+🧠 Kubernetes AI Debugging with k8sgpt (Minikube + Gemini) 
 
-This project demonstrates how to deploy a simple Kubernetes application on Minikube and use k8sgpt with Google Gemini AI to automatically analyze, detect, and explain real Kubernetes issues.
+#Project Overview# 
 
-The focus of this project is AI-assisted Kubernetes troubleshooting, not just deployment.
+This project demonstrates how to deploy a simple Kubernetes application on Minikube and use k8sgpt with Google Gemini AI to automatically analyze, detect, and explain real Kubernetes issues. 
 
-#Project Highlights#
+The focus of this project is AI-assisted Kubernetes troubleshooting, not just deployment. 
 
-Kubernetes running locally using Minikube
+#Project Highlights# 
 
-Application deployed using Deployment + ClusterIP Service
+Kubernetes running locally using Minikube 
 
-Automated cluster analysis using k8sgpt
+Application deployed using Deployment + ClusterIP Service 
 
-AI-powered explanations using Google Gemini
+Automated cluster analysis using k8sgpt 
 
-Real-world Kubernetes errors detected and resolved
+AI-powered explanations using Google Gemini 
 
-#Tech Stack#
+Real-world Kubernetes errors detected and resolved 
 
-Kubernetes: Minikube
+#Tech Stack# 
 
-Application: NGINX
+Kubernetes: Minikube 
 
-Service Type: ClusterIP
+Application: NGINX 
 
-AI Tool: k8sgpt
+Service Type: ClusterIP 
 
-AI Provider: Google Gemini
+AI Tool: k8sgpt 
 
-OS: Ubuntu (Local)
+AI Provider: Google Gemini 
 
-
-
-
-###Kubernetes Architecture###
-DevOps
-   |
-   v
-kubectl apply
-   |
-   v
-Minikube Cluster
-   |__ App/ index.html
-   ├── Deployment (NGINX)
-   ├── Pod
-   └── Service  ClusterIP
-   |
-   v
-k8sgpt
-   |
-   v
-Google Gemini AI
-   |
-   v
-Root Cause Analysis & Fix Suggestions
+OS: Ubuntu (Local) 
