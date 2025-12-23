@@ -35,6 +35,7 @@ OS: Ubuntu (Local)
 
 ###Kubernetes Architecture###  
 
+
  Developer
    |
    v
