@@ -31,3 +31,30 @@ AI Tool: k8sgpt
 AI Provider: Google Gemini 
 
 OS: Ubuntu (Local) 
+
+
+###Kubernetes Architecture###  
+
+ Developer
+   |
+   v
+kubectl apply
+   |
+   v
+Minikube Cluster
+   |
+   ├── Deployment (NGINX)
+   ├── Pod
+   └── ClusterIP Service
+   |
+   v
+k8sgpt
+   |
+   v
+Google Gemini AI
+   |
+   v
+Root Cause Analysis & Fix Suggestions
+
+
+<img width="1913" height="993" alt="Screenshot from 2025-12-23 14-39-38" src="https://github.com/user-attachments/assets/7525be7a-3146-425e-8095-c316fda66497" />
